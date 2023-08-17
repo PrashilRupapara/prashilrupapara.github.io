@@ -49,6 +49,7 @@ Thumbs.db
 *.wmv
 
 # other things added by me
+private_files
 
 # testing files
 test.*
